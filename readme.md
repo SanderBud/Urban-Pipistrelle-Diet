@@ -6,7 +6,7 @@ by Sander W. J. Buddendorf, Nina van Boxem, Judith E. Risse, Agata S. Pijl, Marc
 This repository used data after the 'bioinformatics' steps (QC, cleaning, classification of ASV's, training of classifier). All code of these steps can be found in /code/01_bioinformatics, 
 but the raw sequences are stored elsewhere. These are uploaded to a ENA BioProject with ID: PRJEB116066.
 
-## Installation
+# Installation
 - Clone this repository
 - Open `Urban_bat_diet_Rproject.Rproj` in RStudio (requires R version 4.3.2)
 - Run the following to install all required packages at the exact versions used in this analysis:
