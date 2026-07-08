@@ -1,7 +1,7 @@
 
 # Info 
 All code and data needed to replicate the analyses done in the manuscript: "Pipistrelle bat diet in urban and natural habitat is equally diverse but differs in composition", 
-by Sander W. J. Buddendorf, Nina van Boxem, Judith E. Risse, Agata S. Pijl, Marcel E. Visser, Kamiel Spoelstraa 
+by Sander W. J. Buddendorf, Nina van Boxem, Judith E. Risse, Agata S. Pijl, Marcel E. Visser, Kamiel Spoelstra.
 
 This repository used data after the 'bioinformatics' steps (QC, cleaning, classification of ASV's, training of classifier). All code of these steps can be found in /code/01_bioinformatics, 
 but the raw sequences are stored elsewhere. These are uploaded to a ENA BioProject with ID: PRJEB116066.
