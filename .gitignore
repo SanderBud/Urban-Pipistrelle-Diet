@@ -1,0 +1,6 @@
+.Rproj.user/
+.Rprofile
+.DS_Store
+.RData
+.RHistory
+data/01_raw/LGN2023.tif
