@@ -16,15 +16,14 @@ install.packages("renv")
 renv::restore()
 ```
 
+# Data
+Before being able to run any code, the data needs to be downloaded from Zenodo (https://doi.org/10.34894/BLY8GN). Make sure all data is placed in an directory 'data' in the root.
+
 # How to run the code
 - Open the RProject (Urban_bat_diet_Rproject.Rproj)
 - From the project, run /code/02_cleaning/complete_clean_pipeline.R 
 - Then, run all scripts in /code/03_analyses_and_visualisations/
 - All model outputs and visualisations needed, for both the main manuscript and the supplementary materials, will be stored in the /output directory
-
-## ! Be aware
-That if you want to produce figure S3 from the supplementary materials using /code/03_analyses_and_visualisations/02_urbanness_calculate.R, you first need to download LGN2023 from their website: https://lgn.nl/bestanden, and place the .tif file inside /data/01_raw/ .
-
 
 # Metadata
 ## Explanation of variables / data format:
