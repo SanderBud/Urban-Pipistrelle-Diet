@@ -24,6 +24,7 @@ Before being able to run any code, the data needs to be downloaded from Zenodo (
 - From the project, run /code/02_cleaning/complete_clean_pipeline.R 
 - Then, run all scripts in /code/03_analyses_and_visualisations/
 - All model outputs and visualisations needed, for both the main manuscript and the supplementary materials, will be stored in the /output directory
+- ! Be aware that some scripts have a revised version (ending in '_R1')
 
 # Metadata
 ## Explanation of variables / data format:
